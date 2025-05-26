@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@floortech/vulcrumjs": "0.1.2"
+  }
+}
