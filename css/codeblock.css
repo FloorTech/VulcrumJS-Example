@@ -1,0 +1,30 @@
+code.hljs,
+code,
+pre {
+  background-color: #282828 !important;
+  color: #dedede !important;
+  border-radius: .5rem !important;
+}
+
+pre.needs-spacing {
+  padding: .5rem !important;
+}
+
+span.hljs-title,
+span.hljs-name {
+  color: #ffcc00 !important;
+}
+
+span.hljs-keyword,
+span.hljs-attr {
+  color: #0088ee !important;
+}
+
+span.hljs-string {
+  color: #008e39 !important;
+}
+
+span.hljs-punctuation,
+span.hljs-tag {
+  color: #dedede !important;
+}
